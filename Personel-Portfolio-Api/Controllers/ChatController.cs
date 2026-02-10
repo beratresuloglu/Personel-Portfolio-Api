@@ -18,7 +18,7 @@ namespace Personel_Portfolio_Api
         {
             // appsettings.json içindeki "GroqSettings" bölümünden verileri okur
             _apiKey = configuration["GroqSettings:ApiKey"];
-            _grokUrl = configuration["GroqSettings:ApiUrl"];
+            _grokUrl = configuration["GroqSettings:ApiUrl"] ?? "https://api.groq.com/openai/v1/chat/completions";
         }
 
         [HttpPost("ask")]
