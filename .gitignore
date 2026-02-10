@@ -1,0 +1,26 @@
+# --- GÜVENLİK (EN ÖNEMLİ KISIM) ---
+# API Key ve özel ayarların olduğu dosyalar asla gitmemeli
+appsettings.json
+appsettings.Development.json
+*.local.json
+
+# --- DERLEME ÇIKTILARI ---
+# Bu klasörler her derlemede yeniden oluşur, github'da yer kaplamasın
+[Bb]in/
+[Oo]bj/
+
+# --- VISUAL STUDIO & VS CODE ---
+# Kişisel IDE ayarları
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# --- İŞLETİM SİSTEMİ ---
+Thumbs.db
+.DS_Store
+
+# --- DİĞER ---
+*.log
