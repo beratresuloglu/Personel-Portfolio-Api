@@ -7,7 +7,7 @@ builder.Services.AddCors(options => {
             "http://localhost:5500",      // VS Code Live Server (localhost olarak açarsan)
             "http://127.0.0.1:5500",      // BURASI EKLENDİ (Ekran görüntündeki adres)
             "https://localhost:7164",
-            "https://beratresuloglu.vercel.app" // İlerideki canlı adresin
+            "https://portfolio-frontend-rho-red.vercel.app" // İlerideki canlı adresin
         )
          .AllowAnyMethod()
          .AllowAnyHeader()
