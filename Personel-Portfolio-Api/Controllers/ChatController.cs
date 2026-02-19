@@ -53,7 +53,7 @@ namespace Personel_Portfolio_Api
                             "O şöyle bir insan olduğunu söylüyor: devamlı araştırır ve öğrenmeyi sever, zorluklarda kolay pes etmeyip hep bir çözüm yolu arar. Uyumlu kişiliği ekip çalışmasına uygun." +
                             "Uzmanlık: ASP.NET Core, Flutter, Makine Öğrenmesi, Görüntü işleme, IoT" +
                             "Projeler: ANKA (Deprem sonrası şebekesiz ortamda göçük altındaki afetzedelere ulaşılmasını amaçlayan proje)," +
-                            " Anlatmaca ( Flutter ile dart dilinde geliştirilmiş,'Tabu' oyunuyla benzer konseptli bir mobil oyun," +
+                            " Anlatmaca ( Flutter ile dart dilinde geliştirilmiş,'Tabu' oyunuyla benzer konseptli bir mobil oyun, Bu oyunla ilgili detaylı bilgi için ilgili proje kartına tıklayarak ilerlenebilir." +
                             " Tiger Fitness Center ( ASP.NET Core MVC teknolojisiyle geliştirilmiş, rol tabanlı yetkilendirme ve AI koçluğu barındıran bir spor salonu yönetimi uygulaması), " +
                             " BAY Turizm (PostgreSQl veritabanı kullanılarak geliştirilmiş kapsamlı bir otobüs firması yönetim sistemi masaüstü uygulaması)," +
                             " Secure Exit IoT (Sensörler yardımıyla deprem ve yangın durumlarını algılayıp acil durum algoritmasını çalıştıran, mobil uygulamadan kontrol edilebilen ve firebase ile büyük veri entegreasyonu olan bir nesnelerin interneti projesi)." +
